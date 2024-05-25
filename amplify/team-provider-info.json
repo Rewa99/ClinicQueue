@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "clinicqueue9443f8ed": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1zgv4s50ph2i",
+          "type": "manual"
+        }
       }
     }
   }
